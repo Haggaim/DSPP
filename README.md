@@ -1,4 +1,6 @@
-# DS++: A flexible, scalable and provably tight relaxation for matching problems" ,SIGGRAPH Asia 2017
+# DS++: A flexible, scalable and provably tight relaxation for matching problems
+Nadav Dym, Haggai Maron, Yaron Lipman
+SIGGRAPH Asia 2017
 
 Abstract
 ------------
